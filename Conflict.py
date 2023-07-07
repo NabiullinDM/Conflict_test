@@ -1,4 +1,4 @@
 def Conflict_file(name):
-    print(f'Hello, my dear {name}')
+    print(f'Hello, my dear, {name}!!!')
 
-Conflict_file("Пётр")
+Conflict_file("Пётр Семёнович")
